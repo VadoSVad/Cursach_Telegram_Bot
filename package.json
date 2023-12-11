@@ -1,0 +1,17 @@
+{
+  "name": "cursach",
+  "version": "1.0.0",
+  "description": "Curs work - bot in my UNI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "VadosVad",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.1",
+    "tgsnake": "^2.1.2"
+  }
+}
